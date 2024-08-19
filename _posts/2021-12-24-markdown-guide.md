@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Markdown Guide
+title: Introduction to Full Stack 
 subtitle: Resources to work with Markdown
-categories: markdown
-tags: [guide, markdown]
+categories: Full Stack
+tags: [Full Stack,Intro,Certificate ]
 ---
 
-## Resources
+## Introduction to Full Stack
 
 This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
